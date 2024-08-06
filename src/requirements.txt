@@ -1,0 +1,5 @@
+isort
+jupyter
+jupytext
+nbconvert
+pylint-pytest
